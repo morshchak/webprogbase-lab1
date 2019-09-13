@@ -8,13 +8,15 @@ text-align: left;
 background-color:black;
 }
 img {
-  width: 2000px; 
-  height: 456px; 
-  background-repeat: repeat-x;
-  background-attachment:scroll;
+  /* width: 2000px; 
+  height: 456px;  */
+  background-repeat: repeat;
+  background-attachment:fixed;
 }
 img1 {
-  border-radius: 8px;
+  width: 400px; 
+  height: 500px;
+  /* border-radius: 8px; */
 }
 h1 {
   font-family: 'Times New Roman', Times, serif;
