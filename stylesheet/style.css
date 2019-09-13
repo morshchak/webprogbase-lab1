@@ -8,8 +8,8 @@ text-align: left;
 background-color:black;
 }
 img {
-  width: 1018px; 
-  height: 456px; 
+  /* width: 1018px; 
+  height: 456px;  */
   background-repeat: repeat-x;
   background-attachment:scroll;
 }
@@ -22,7 +22,7 @@ h1 {
  } 
  p {
   font-family: Verdana, Arial, Helvetica, sans-serif; 
-  font-size: 50pt;
+  font-size: 15pt;
  }
 
 table, th, td {
