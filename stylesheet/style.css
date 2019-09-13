@@ -7,8 +7,14 @@ color: white;
 text-align: left;
 background-color:black;
 }
+#header {  
+  background-image: url("images/header.jpeg");
+  background-repeat: repeat-x;
+  background-position: top;
+  background-attachment: fixed;
+}
 
-h1 {
+head {
   font-family: 'Times New Roman', Times, serif;
   font-size: 250%; 
  } 
