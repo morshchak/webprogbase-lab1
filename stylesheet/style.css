@@ -9,9 +9,11 @@ background-color:black;
 }
 div {  
   background-image: src("images/header.jpeg");
+  /* width: 660px;
+  height: 300px; */
   background-repeat: repeat-x;
   background-position: top;
-  background-attachment: fixed;
+  background-attachment: scroll;
 }
 
 head {
