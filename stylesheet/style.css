@@ -7,8 +7,8 @@ color: white;
 text-align: left;
 background-color:black;
 }
-#header {  
-  background-image: url("images/header.jpeg");
+div {  
+  background-image: src("images/header.jpeg");
   background-repeat: repeat-x;
   background-position: top;
   background-attachment: fixed;
