@@ -7,22 +7,20 @@ color: white;
 text-align: left;
 background-color:black;
 }
-div {  
-  background-image: src("images/header.jpeg");
+img {  
   /* width: 660px;
   height: 300px; */
   background-repeat: repeat-x;
-  background-position: top;
   background-attachment: scroll;
 }
 
-head {
+h1 {
   font-family: 'Times New Roman', Times, serif;
   font-size: 250%; 
  } 
  p {
   font-family: Verdana, Arial, Helvetica, sans-serif; 
-  font-size: 11pt;
+  font-size: 50pt;
  }
 
 table, th, td {
