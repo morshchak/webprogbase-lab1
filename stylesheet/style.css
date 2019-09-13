@@ -7,13 +7,15 @@ color: white;
 text-align: left;
 background-color:black;
 }
-img {  
-  /* width: 660px;
-  height: 300px; */
+img {
+  width: 1018px; 
+  height: 456px; 
   background-repeat: repeat-x;
-  background-attachment: scroll;
+  background-attachment:scroll;
 }
-
+img1 {
+  border-radius: 50%;
+}
 h1 {
   font-family: 'Times New Roman', Times, serif;
   font-size: 250%; 
