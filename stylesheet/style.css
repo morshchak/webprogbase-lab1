@@ -17,6 +17,12 @@ img {
 }
 
 h1 {
+  padding: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 250%; 
+ } 
+ h2 {
+  padding: 10px;
   font-family: 'Times New Roman', Times, serif;
   font-size: 250%; 
  } 
@@ -32,34 +38,28 @@ h1 {
  }
 table, th, td {
   padding: 10px;
-    border-right: 1px solid white;
-    border-left: 1px solid white;
-    border-collapse: collapse;
+  border: 1px solid white;
+  border-collapse: collapse;
 }
 ul {
 list-style: none; 
-/* padding: 10px; */
+
 padding-left: 0;
 margin-top:25px;
-/* background:rgba(35, 232, 243, 0.53); */
 height: 50px; 
 }
 a {
 text-decoration: none; 
-/* background:rgba(34, 211, 230, 0.53);  */
 color:white; 
 padding:0px 15px; 
 font-family: arial; 
 line-height:50px; 
 display: block; 
-border: 1px solid white;
+border-right: 1px solid white;
+border-left: 1px solid white;
 -moz-transition: all 0.3s 0.01s ease; 
 -o-transition: all 0.3s 0.01s ease;
 -webkit-transition: all 0.3s 0.01s ease;
-
-}
-a:hover {
-/* background:rgba(15, 156, 179, 0.74); */
 }
 li {
 float:left;
