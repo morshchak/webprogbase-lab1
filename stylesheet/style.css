@@ -35,46 +35,46 @@ list-style: none;
 margin: 0; 
 padding-left: 0;
 margin-top:25px;
-background:#B2B9ED;
+background:gray;
 height: 50px; 
 }
 a {
 text-decoration: none; 
-background:#8794EC; 
-color:#fff; 
+background:gray; 
+color:white; 
 padding:0px 15px; 
 font-family: arial; 
 line-height:50px; 
 display: block; 
-border-right: 1px solid #939FF3;
+border-right: 1px solid gray;
 -moz-transition: all 0.3s 0.01s ease; 
 -o-transition: all 0.3s 0.01s ease;
 -webkit-transition: all 0.3s 0.01s ease;
 
 }
 a:hover {
-background:#87B0F4;
+background:gray;
 }
 li {
 float:left;
 }
 a:link {
-color: #8181E3;
+color: gray;
 background-color: transparent;
 text-decoration: none;
 }
 a:visited {
-color: #8080EC;
+color: gray;
 background-color: transparent;
 text-decoration: none;
 }
 a:hover {
-color: #8C88EA;
+color: gray;
 background-color: transparent;
 text-decoration: underline;
 }
 a:active {
-color: #6A94E8;
+color: gray;
 background-color: transparent;
 text-decoration: underline;
 }  
