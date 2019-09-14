@@ -15,6 +15,14 @@ img {
   background-repeat: repeat;
   background-attachment:fixed;
 }
+#i1 {
+  width: 244px;
+  height: 244px;
+  border: 5px solid black;
+  border-radius: 160px 160px 160px 160px; 
+  -webkit-border-radius: 160px 160px 160px 160px; 
+  -moz-border-radius: 160px 160px 160px 160px;
+}
 
 h1 {
   font-family: 'Times New Roman', Times, serif;
@@ -48,13 +56,12 @@ margin-top:25px;
 height: 50px; 
 }
 a {
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 100%; 
 text-decoration: none; 
 color:white; 
 padding:0px 15px; 
 font-family: arial; 
-line-height:70px; 
+font-size: 150%;
+line-height:50px; 
 display: block; 
 /* border-right: 1px solid white;
 border-left: 1px solid white; */
