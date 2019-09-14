@@ -35,46 +35,46 @@ list-style: none;
 margin: 0; 
 padding-left: 0;
 margin-top:25px;
-background:rgba(192, 192, 192, 0.29);
+background:rgba(131, 147, 231, 0.47);
 height: 50px; 
 }
 a {
 text-decoration: none; 
-background:rgba(135, 148, 236, 0.28); 
+background:rgba(135, 148, 236, 0.51); 
 color:white; 
 padding:0px 15px; 
 font-family: arial; 
 line-height:50px; 
 display: block; 
-border-right: 1px solid rgba(134, 145, 224, 0.45);
+border-right: 1px solid rgba(157, 168, 247, 0.57);
 -moz-transition: all 0.3s 0.01s ease; 
 -o-transition: all 0.3s 0.01s ease;
 -webkit-transition: all 0.3s 0.01s ease;
 
 }
 a:hover {
-background:rgba(88, 115, 162, 0.74);
+background:rgba(118, 155, 218, 0.74);
 }
 li {
 float:left;
 }
 a:link {
-color: rgba(98, 140, 210, 0.27);
+color: rgba(145, 183, 245, 0.61);
 background-color: transparent;
 text-decoration: none;
 }
 a:visited {
-color: rgba(175, 175, 255, 0.36);
+color: rgba(175, 175, 255, 0.54);
 background-color: transparent;
 text-decoration: none;
 }
 a:hover {
-color: rgba(134, 132, 200, 0.51);
+color: rgba(170, 168, 255, 0.61);
 background-color: transparent;
 text-decoration: underline;
 }
 a:active {
-color: rgba(142, 175, 240, 0.45);
+color: rgba(142, 175, 240, 0.58);
 background-color: transparent;
 text-decoration: underline;
 }  
