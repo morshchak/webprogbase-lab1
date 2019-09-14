@@ -40,13 +40,13 @@ height: 50px;
 }
 a {
 text-decoration: none; 
-background:rgba(135, 148, 236, 0.51); 
+background:rgba(91, 93, 101, 0.32); 
 color:white; 
 padding:0px 15px; 
 font-family: arial; 
 line-height:50px; 
 display: block; 
-border-right: 1px solid rgba(157, 168, 247, 0.57);
+border-right: 1px solid white;
 -moz-transition: all 0.3s 0.01s ease; 
 -o-transition: all 0.3s 0.01s ease;
 -webkit-transition: all 0.3s 0.01s ease;
