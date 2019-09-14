@@ -16,14 +16,12 @@ img {
   background-attachment:fixed;
 }
 #i1 {
-  /* width: 244px;
+  width: 244px;
   height: 244px;
   border: 5px solid black;
   border-radius: 160px 160px 160px 160px; 
   -webkit-border-radius: 160px 160px 160px 160px; 
-  -moz-border-radius: 160px 160px 160px 160px; */
-  border-radius: 50%;
-  width : 200px;  
+  -moz-border-radius: 160px 160px 160px 160px;
 }
 
 h1 {
@@ -31,7 +29,6 @@ h1 {
   font-size: 250%; 
  } 
  h2 {
-  padding: 10px;
   font-family: 'Times New Roman', Times, serif;
   font-size: 150%; 
  } 
@@ -46,7 +43,7 @@ h1 {
   font-size: 15pt;
  }
 table, th, td {
-  /* padding: 10px; */
+  padding: 10px;
   border: 1px solid white;
   border-collapse: collapse;
 }
