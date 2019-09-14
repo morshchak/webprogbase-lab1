@@ -21,21 +21,24 @@ h1 {
   font-size: 250%; 
  } 
  p {
+  padding: 10px;
   font-family: Verdana, Arial, Helvetica, sans-serif; 
   font-size: 15pt;
  }
  pre {
+  padding: 10px;
   font-family: Verdana, Arial, Helvetica, sans-serif; 
   font-size: 15pt;
  }
 table, th, td {
+  padding: 10px;
     border: 1px solid white;
     border-collapse: collapse;
 }
 ul {
 list-style: none; 
-
-padding-left: 0;
+padding: 10px;
+/* padding-left: 0; */
 margin-top:25px;
 /* background:rgba(35, 232, 243, 0.53); */
 height: 50px; 
@@ -48,7 +51,7 @@ padding:0px 15px;
 font-family: arial; 
 line-height:50px; 
 display: block; 
-border-right: 1px solid white;
+border: 1px solid white;
 -moz-transition: all 0.3s 0.01s ease; 
 -o-transition: all 0.3s 0.01s ease;
 -webkit-transition: all 0.3s 0.01s ease;
