@@ -17,14 +17,13 @@ img {
 }
 
 h1 {
-  padding: 10px;
   font-family: 'Times New Roman', Times, serif;
   font-size: 250%; 
  } 
  h2 {
   padding: 10px;
   font-family: 'Times New Roman', Times, serif;
-  font-size: 250%; 
+  font-size: 150%; 
  } 
  p {
   padding: 10px;
@@ -55,8 +54,8 @@ padding:0px 15px;
 font-family: arial; 
 line-height:50px; 
 display: block; 
-border-right: 1px solid white;
-border-left: 1px solid white;
+/* border-right: 1px solid white;
+border-left: 1px solid white; */
 -moz-transition: all 0.3s 0.01s ease; 
 -o-transition: all 0.3s 0.01s ease;
 -webkit-transition: all 0.3s 0.01s ease;
