@@ -10,7 +10,7 @@ margin-right: 5%;
 margin-left: 5%;
 }
 img {
-  width: 1900px; 
+  width: 1700px; 
   height: 456px; 
   background-repeat: repeat;
   background-attachment:fixed;
@@ -37,12 +37,12 @@ list-style: none;
 
 padding-left: 0;
 margin-top:25px;
-background:rgba(131, 147, 231, 0.47);
+background:rgba(35, 232, 243, 0.53);
 height: 50px; 
 }
 a {
 text-decoration: none; 
-background:rgba(91, 93, 101, 0.32); 
+background:rgba(34, 211, 230, 0.53); 
 color:white; 
 padding:0px 15px; 
 font-family: arial; 
@@ -55,28 +55,28 @@ border-right: 1px solid white;
 
 }
 a:hover {
-background:rgba(118, 155, 218, 0.74);
+background:rgba(15, 156, 179, 0.74);
 }
 li {
 float:left;
 }
 a:link {
-color: rgba(145, 183, 245, 0.61);
+color: rgba(57, 176, 196, 0.77);
 background-color: transparent;
 text-decoration: none;
 }
 a:visited {
-color: rgba(175, 175, 255, 0.54);
+color: rgba(28, 201, 237, 0.59);
 background-color: transparent;
 text-decoration: none;
 }
 a:hover {
-color: rgba(170, 168, 255, 0.61);
+color: rgba(52, 187, 216, 0.61);
 background-color: transparent;
 text-decoration: underline;
 }
 a:active {
-color: rgba(142, 175, 240, 0.58);
+color: rgba(38, 201, 226, 0.58);
 background-color: transparent;
 text-decoration: underline;
 }  
